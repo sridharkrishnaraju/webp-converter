@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/webp-converter",
+  "version": "1.0.0",
+  "description": "Convert images to WebP in the browser — nothing is uploaded. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "webp-converter.js",
+  "unpkg": "webp-converter.js",
+  "files": ["webp-converter.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "convert image to webp", "png to webp", "jpg to webp"],
+  "homepage": "https://sgbp.tech/tools/webp-converter",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
