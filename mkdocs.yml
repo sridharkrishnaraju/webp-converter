@@ -1,0 +1,8 @@
+site_name: Image to WebP Converter
+site_description: Convert images to WebP in the browser — nothing is uploaded.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
